@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2423029/Documents/Unreal Projects/MyProject/Content/Niagra/Fire/M_StylisedFireMat.uasset",
+				"C:/Users/2423029/Documents/Unreal Projects/MyProject/Content/Niagra/Fire/NE_Fire.uasset",
+				"C:/Users/2423029/Documents/Unreal Projects/MyProject/Content/Niagra/Fire/NE_Fire_System.uasset",
+				"C:/Users/2423029/Documents/Unreal Projects/MyProject/Content/Niagra/Fire/NE_Embers.uasset",
+				"C:/Users/2423029/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/BR/1AVTZTILQ12CHGFCHCSNGQ.uasset",
+				"C:/Users/2423029/Documents/Unreal Projects/MyProject/Content/Niagra/BP_Projectile.uasset",
+				"C:/Users/2423029/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/2423029/Documents/Unreal Projects/MyProject/Content/Niagra/NE_Test.uasset"
+			]
+		}
+	]
+}
